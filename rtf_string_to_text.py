@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+### Author: A.A.
+### Date: 20170121
+### Description: Convert RTF code from a string to text.
+### Usage: ./rtf_string_to_text.py
+
 from pyth.plugins.rtf15.reader import Rtf15Reader
 from pyth.plugins.plaintext.writer import PlaintextWriter
 
